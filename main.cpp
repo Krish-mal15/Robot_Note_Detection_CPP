@@ -3,6 +3,12 @@
 using namespace std;
 using namespace cv;
 
+int robotX = 0;
+int robotY = 0;
+int robotRotation = 180;
+int desiredAngle = 0;
+double PI = 3.141592653;
+
 int main(){
     VideoCapture cap(1);
     if(!cap.isOpened()){
@@ -87,6 +93,12 @@ int main(){
 
 			// cout << "X: " << posX << "   ";
 			// cout << "Y: " << posY << "\n";
+
+            distY = robotY - posY;
+            distX = robotX - posX;
+
+            double desiredAngle = (robotRotation + atan(distY/distX)) * (180/PI);
+            //adjust equation if get testing time
         }
 
 
