@@ -1,0 +1,9 @@
+C:/Users/krsid/Desktop/Coding Projects/AI-Projects/Robot_Note_Detection_CPP/build/CMakeFiles/Experimental.dir
+C:/Users/krsid/Desktop/Coding Projects/AI-Projects/Robot_Note_Detection_CPP/build/CMakeFiles/Nightly.dir
+C:/Users/krsid/Desktop/Coding Projects/AI-Projects/Robot_Note_Detection_CPP/build/CMakeFiles/Continuous.dir
+C:/Users/krsid/Desktop/Coding Projects/AI-Projects/Robot_Note_Detection_CPP/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/krsid/Desktop/Coding Projects/AI-Projects/Robot_Note_Detection_CPP/build/CMakeFiles/Robot_Note_Detection_CPP.dir
+C:/Users/krsid/Desktop/Coding Projects/AI-Projects/Robot_Note_Detection_CPP/build/CMakeFiles/PACKAGE.dir
+C:/Users/krsid/Desktop/Coding Projects/AI-Projects/Robot_Note_Detection_CPP/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/krsid/Desktop/Coding Projects/AI-Projects/Robot_Note_Detection_CPP/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/krsid/Desktop/Coding Projects/AI-Projects/Robot_Note_Detection_CPP/build/CMakeFiles/ZERO_CHECK.dir

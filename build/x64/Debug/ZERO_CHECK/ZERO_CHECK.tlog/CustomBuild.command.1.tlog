@@ -1,0 +1,10 @@
+^C:\USERS\KRSID\DESKTOP\CODING PROJECTS\AI-PROJECTS\ROBOT_NOTE_DETECTION_CPP\BUILD\CMAKEFILES\CBC2E8D6A6AAE2CCA0294D08C5CE7E29\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/krsid/Desktop/Coding Projects/AI-Projects/Robot_Note_Detection_CPP" "-BC:/Users/krsid/Desktop/Coding Projects/AI-Projects/Robot_Note_Detection_CPP/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/krsid/Desktop/Coding Projects/AI-Projects/Robot_Note_Detection_CPP/build/Robot_Note_Detection_CPP.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
